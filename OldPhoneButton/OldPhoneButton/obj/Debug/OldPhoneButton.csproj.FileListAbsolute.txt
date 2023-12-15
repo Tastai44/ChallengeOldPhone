@@ -1,0 +1,7 @@
+F:\Github\ChallengeOldPhone\OldPhoneButton\OldPhoneButton\obj\Debug\OldPhoneButton.csproj.AssemblyReference.cache
+F:\Github\ChallengeOldPhone\OldPhoneButton\OldPhoneButton\obj\Debug\OldPhoneButton.csproj.CoreCompileInputs.cache
+F:\Github\ChallengeOldPhone\OldPhoneButton\OldPhoneButton\bin\Debug\OldPhoneButton.exe.config
+F:\Github\ChallengeOldPhone\OldPhoneButton\OldPhoneButton\bin\Debug\OldPhoneButton.exe
+F:\Github\ChallengeOldPhone\OldPhoneButton\OldPhoneButton\bin\Debug\OldPhoneButton.pdb
+F:\Github\ChallengeOldPhone\OldPhoneButton\OldPhoneButton\obj\Debug\OldPhoneButton.exe
+F:\Github\ChallengeOldPhone\OldPhoneButton\OldPhoneButton\obj\Debug\OldPhoneButton.pdb
