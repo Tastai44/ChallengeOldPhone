@@ -4,7 +4,8 @@ Old phone keypad is use for typing letters by pressing a button multiple times w
 
 ## Built With
 
-* C#
+* C# dotnet6
+* Visual Studio
 
 ## Components and How it works
 
