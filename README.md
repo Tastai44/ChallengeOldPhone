@@ -17,6 +17,7 @@ In the Program.cs file, there are 6 methods. The following is the order of how t
 * DeleteNumber: This method is used to delete the letter located before * For example, 227* -> 22.
 * CheckLastNumber: it is the method that is used for returning characters when processing the last character of the input.
 * OldPhonePad: it is the method that is used for mapping sequences of numbers to corresponding characters based on an old phone keypad layout and return those characters and the end.
+
 Secondly, in the folder OldPhoneButton.Tests, there are test cases for this program that include all the methods located in the Program file. The purpose is to test whether all methods behave as expected or not.
 
 ## License
